@@ -1,0 +1,7 @@
+{
+  "name": "nick_website_v2",
+  "short_name": "nick_website_v2",
+  "description": "Nick Alfino&#39;s website",
+  "start_url": "/",
+  "display": "standalone"
+}
